@@ -4,7 +4,7 @@ Download zip file<br>
 or <br>
 git clone command (need git to be installed) and remove git folder afterwards
 ```
-git clone https://github.com/andyjud/django-starter.git . && rm -rf .git
+git clone https://github.com/dvch162/django-multi-users-realtime-chat.git . && rm -rf .git
 ```
 <br><br><br>
 
